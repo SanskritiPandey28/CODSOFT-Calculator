@@ -1,5 +1,5 @@
 Calculator App
-A simple calculator web application built using HTML, CSS, and JavaScript. This project is part of the CodSoft Internship program.
+A simple calculator web application built using HTML, CSS, and JavaScript. 
 
 📌 Features
 ✔️ Perform basic arithmetic operations (+, -, ×, ÷)
